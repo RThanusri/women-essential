@@ -1,7 +1,11 @@
 {
   "name": "women-essentials",
   "version": "0.1.0",
+  "engines": {
+    "node": "18.x"
+    "npm": "9.x"
   "private": true,
+  
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
